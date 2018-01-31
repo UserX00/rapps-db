@@ -1,0 +1,23 @@
+[Section]
+ Name = ZinjaI
+ Version = 20171016
+ License = GPL
+ Description = ZinjaI is an IDE
+ Size = 57.4MB
+ Category = 7
+ URLSite = http://zinjai.sourceforge.net/
+ URLDownload = https://sourceforge.net/projects/zinjai/files/zinjai-20171016/zinjai-w32-20171016.exe/download?use_mirror=razaoinfo&download=
+ CDPath = none
+ 
+ 
+ [Section.040a]
+ Description = ZinjaI es un entorno de desarrollo IDE para programar en C y C++.
+ 
+
+ [Section.0415]
+ Description = ZinjaI – IDE development.
+
+ Section.0416]
+Description= ZinjaI é um ambiente de desenvolvimento IDE para programar em C e C++
+ 
+
